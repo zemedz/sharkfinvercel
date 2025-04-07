@@ -13,9 +13,7 @@
     "react-dom": "18.2.0",
     "chart.js": "^4.4.0",
     "framer-motion": "^10.16.1",
-    "react-chartjs-2": "5.2.0"
-  },
-  "devDependencies": {
+    "react-chartjs-2": "5.2.0",
     "typescript": "^5.2.2",
     "@types/react": "^18.0.27",
     "@types/node": "^18.11.9"
